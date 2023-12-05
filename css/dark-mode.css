@@ -1,0 +1,26 @@
+.dark-mode {
+    background-color: var(--azul-profundo);
+}
+
+.pesquisar__input.dark-mode {
+    background-color: var(--azul-profundo);
+    color: var(--cinza-medio);
+}
+
+.menu__lista li.dark-mode {
+    color: var(--branco);
+}
+
+.superior__secao__container-wrapper a.dark-mode {
+    color: var(--cinza-medio);
+    background-color: var(--azul-medio);
+}
+
+.superior__secao__container-wrapper a.dark-mode:hover {
+    background-color: var(--azul-destaque-light);
+    color: var(--branco);
+}
+
+.descricao-video {
+    color: var(--branco);
+}
