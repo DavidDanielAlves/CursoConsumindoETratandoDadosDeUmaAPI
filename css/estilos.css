@@ -65,7 +65,6 @@ body {
 
 .cabecalho__audio {
     border: 0px;
-    border-radius: 100%;
     background-color: var(--branco);
 }
 
@@ -373,5 +372,3 @@ iframe{
     }
 
 }
-
-
